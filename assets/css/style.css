@@ -13,7 +13,7 @@
 }
 
 .linktree {
-    background-image: url(../background.jpg);
+    background-image: url(../background.webp);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
@@ -121,6 +121,11 @@
 
 .contentTree>.boxTree>figure>img {
     width: 400px;
+}
+
+.btns > figure > img {
+    width: 28px;
+    height: 28px;
 }
 
 .linhaStyle {
