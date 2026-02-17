@@ -136,7 +136,7 @@
     z-index: 99999;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 500px) {
     .linktree {
         height: 100vh;
     }
