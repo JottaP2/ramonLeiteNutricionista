@@ -141,6 +141,11 @@
 }
 
 @media (max-width: 425px) {
+    .linktree {
+        height: auto;
+        min-height: 100vh;
+    }
+
     .treeBtn>figure>img {
         width: 350px;
     }
